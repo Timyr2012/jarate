@@ -1,0 +1,34 @@
+.hero-link{
+    background-color:#779611 ;
+    border-radius:40px;
+    color:#f9f9f9;
+    font-size: 32px;
+    padding: 19px 70px 10px 70px;
+}
+.flaves{
+    padding-top: 80px;
+}
+
+.flaves-title{
+    font-family: "Exo 2","sans-serif";
+    font-size: 36px;
+    padding-top: 80px;
+    color: #779611;
+}
+.flaves-text{
+    padding-top: 35px;
+    padding-top: 50px;
+}
+.flaves-list{
+    display: flex;
+    justify-content: space-between;
+}
+.flaves-name{
+    font-size: 24px;
+    font-weight: 400;
+    padding: 35px 0px 15px 60px;
+    color: #779611;
+}
+.flaves-price{
+    padding-left:60px;
+}
