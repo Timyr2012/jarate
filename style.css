@@ -192,3 +192,7 @@ ul{
 .footer-text{
     line-height: 2.2;
 }
+.footer-title{
+    color: #707070;
+    font-weight: 400;
+}
